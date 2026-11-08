@@ -1,9 +1,15 @@
 # 💫 About Me:
+<table>
+<tr>
+<td width="65%" valign="middle">
 # Hi, I'm Anh 👋<br><br>I'm a Software Developer passionate about building modern web applications and exploring new technologies. I primarily focus on Frontend Development, while continuously expanding my knowledge of Backend Development and Full-Stack Engineering.<br><br>I'm also interested in AI-assisted development and Vibe Coding, leveraging AI tools to improve productivity, write cleaner code, and build better software.<br><br>Always learning, building, and improving. 🚀
-<p align="center">
-  <img src="./assets/Animation This Is Fine GIF by braindead.gif.gif" width="400" />
-</p>
+</td>
+<td width="35%" align="center" valign="middle">
 
+<img src="./assets/Animation This Is Fine GIF by braindead.gif.gif" width="250" alt="This Is Fine GIF" />
+</td>
+</tr>
+</table>
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danganh.dev0403@gmail.com) 
 
